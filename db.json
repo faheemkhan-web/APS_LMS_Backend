@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "admin-id-1",
+      "name": "System Admin",
+      "email": "admin@lms.com",
+      "password": "$2a$10$uTZh1nDNA4cdqytIOwB5pu9hr43.NdM.rFXU5/8faxpFW.Cu31bG2",
+      "role": "admin",
+      "status": "approved",
+      "createdAt": "2026-06-24T19:25:21.106Z"
+    },
+    {
+      "id": "usr_ydi1giowd",
+      "createdAt": "2026-06-24T19:29:54.479Z",
+      "name": "John Doe (Student)",
+      "email": "student@lms.com",
+      "password": "$2a$10$2.2hdDmYQ50Qj.Ro0DZl0usG5aJPHayNRE62AS5MwBrThuzddeVVG",
+      "role": "student",
+      "status": "approved"
+    },
+    {
+      "id": "usr_u6wnhy4vd",
+      "createdAt": "2026-06-27T06:58:03.170Z",
+      "name": "Hammad Ali",
+      "email": "hammad@gmail.com",
+      "password": "$2a$10$q9LPsOkiw/.TGRvvh0ViauG07We8Au9H5pDwtAcUIN.VG9yWbAn4m",
+      "role": "student",
+      "status": "approved"
+    },
+    {
+      "id": "usr_63qgm2wh5",
+      "createdAt": "2026-06-27T07:26:39.754Z",
+      "name": "Automated Test Student",
+      "email": "test_student_e13vh@lms.com",
+      "password": "$2a$10$Jd9l7V9BvGl9k.NXbI7cbO52MyOXLFZfzRK9vG4GFPMxEiSdG3ocG",
+      "role": "student",
+      "status": "pending"
+    },
+    {
+      "id": "usr_lfbbl6055",
+      "createdAt": "2026-06-27T07:26:55.358Z",
+      "name": "Automated Test Student",
+      "email": "test_student_mebf1@lms.com",
+      "password": "$2a$10$i01kZAhcXy6XcxWWVCq9/.RxLhtfwRT5Ols46/gQSaBja7549amou",
+      "role": "student",
+      "status": "pending"
+    }
+  ]
+}
